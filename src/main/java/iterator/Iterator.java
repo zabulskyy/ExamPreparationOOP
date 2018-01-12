@@ -42,7 +42,5 @@ class Container {
             System.out.println(iterator.next());
         }
     }
+
 }
-
-
-
